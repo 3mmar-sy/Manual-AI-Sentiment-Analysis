@@ -1,4 +1,6 @@
+![0](https://github.com/user-attachments/assets/1fae1122-100b-46a4-8a26-68b3acc606d9)
 # Manual AI Sentiment Analysis:
+
 Handwritten Code vs. Library Implementation
 
 ## Overview
